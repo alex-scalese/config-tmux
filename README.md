@@ -1,1 +1,1 @@
-# config-temux
+# config-tmux
